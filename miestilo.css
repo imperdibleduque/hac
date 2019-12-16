@@ -1,0 +1,57 @@
+.matematicas {
+	color: red;
+	font-family: "Times New Roman", Times, serif;
+}
+.química {
+	color: #806000;
+	font-style: italic;
+}
+.lengua {
+	color: #4da6ff;
+	font-style: oblique;
+}
+.TIC {
+	color: #cc33ff;
+	font-family: "Arial"
+}
+.física {
+	color: #ffa64d;
+	font-family: "Lucida Console"
+}
+.historia {
+	color: #0000b3;
+	font-family: "Courier New"
+}
+.inglés {
+	color: #ff1a75;
+	
+}
+.biología {
+	color: #558000;
+	
+}
+body {
+	background-color:yellow;
+}
+table {
+	background-color:#d9d9d9;
+	margin: 0 auto;
+}
+.lunes {
+	color:blue
+}
+.martes {
+	color:red;
+}
+.miercoles {
+	color:yellow;
+}
+.jueves {
+	color:purple;
+}
+.viernes {
+	color:green;
+}
+.recreo {
+	color:green;
+}
